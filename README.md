@@ -1,4 +1,4 @@
-# Global Sales Insight Report for Anonymous Company
+# Global Sales Insight Report for Anonymous Company (Wayne Trading Co.)
 
 ## Executive Summary
 
@@ -12,7 +12,7 @@
 
 #### Product Performance Insights shed light on the company's product portfolio, highlighting the profitability of technology products and the popularity of top-selling items such as phones, copiers, and chairs. Through strategic pricing and marketing initiatives, Wayne Trading Co. has effectively maximized sales potential and capitalized on profitable product categories.
 
-#### Lastly, the Post-Holiday Sales Analysis demonstrates the company's agility in adapting to changing market dynamics and consumer behaviour. Despite seasonal challenges, Wayne Trading Co. has maintained a competitive edge through data-driven insights and proactive measures to mitigate sales fluctuations and optimize performance.
+#### Lastly, the Post-Holiday Sales Analysis demonstrates the company's agility in adapting to changing market dynamics and consumer behaviour. Despite seasonal challenges,  Trading Co. has maintained a competitive edge through data-driven insights and proactive measures to mitigate sales fluctuations and optimize performance.
 
 <img width="527" height="264" alt="image" src="https://github.com/user-attachments/assets/899f098f-3d12-4595-b16e-2010fb794bd9" />
 
